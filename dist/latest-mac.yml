@@ -1,0 +1,11 @@
+version: 0.1.0
+files:
+  - url: ARIA-0.1.0-mac.zip
+    sha512: +71nmPxHj2SFt3AYCczYQLdKpPQfbtk8NMFsuH5yjp4qtspawZPmKJswLVmKjjAoY2SAyU2qBHFab9w1avFsCw==
+    size: 126804441
+  - url: ARIA-0.1.0.dmg
+    sha512: R441ch5jqVFHJzFBkCrJ8IlArHRfgcHWPgLaNCqYVAA9xfQhY7gkU7Jpsl2VA39cCulua5hXvDUYOETOwOAxpw==
+    size: 131676722
+path: ARIA-0.1.0-mac.zip
+sha512: +71nmPxHj2SFt3AYCczYQLdKpPQfbtk8NMFsuH5yjp4qtspawZPmKJswLVmKjjAoY2SAyU2qBHFab9w1avFsCw==
+releaseDate: '2023-10-26T11:33:27.207Z'
